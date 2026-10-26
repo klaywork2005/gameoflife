@@ -1,3 +1,0 @@
-/home/kgb/Projects/cpp_projects/build/CMakeFiles/main.dir
-/home/kgb/Projects/cpp_projects/build/CMakeFiles/edit_cache.dir
-/home/kgb/Projects/cpp_projects/build/CMakeFiles/rebuild_cache.dir
