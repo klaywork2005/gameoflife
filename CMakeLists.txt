@@ -9,7 +9,7 @@ set(CMAKE_CXX_EXTENSIONS OFF)   # use -std=c++20, not -std=gnu++20
 
 add_executable(game_of_life
     src/main.cpp
-    
+    src/grid.cpp
 )
 
 target_include_directories(game_of_life PRIVATE include)
